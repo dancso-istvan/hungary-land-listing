@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dancso-istvan.github.io/hungary-land-listing/sitemap.xml
